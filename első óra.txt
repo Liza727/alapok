@@ -1,0 +1,26 @@
+kiegészítők Prettier - Code formatter -> alt + shift + f --- HTML CSS Support --- Live Server
+
+https://validator.w3.org/
+
+alt + shift
+alt + ahift + nyilak
+
+
+pixel: alkalmazkodik a képernyő felbontáshoz
+pont: nyomdai mértékegység fixen meg van határozva, minden kijelzőn ugyanakkora méret
+em: alapértemezett mérethez viszonyítva
+1 vw: megjeleníző egység szélessége
+
+<meta name="description" content="Free Web tutorials">  --> keresőben megjelenítendő szöveg, röviden, hogy miről is szól az oladl
+<meta name="keywords" content="HTML, CSS, JavaScript">  --> kulcsaszvak amire keresnek google-banb
+<meta name="author" content="John Doe">  --> szerző, email cím, név
+
+main  -- szülőelem
+	header -- fejléc infó   -- gyerekelemek
+	nav --  menű
+	article/section -- fő tartalom
+	aside -- mellék tartalom	
+	foother -- lábléc infó
+	
+szülőelem - display:grid
+gyerekelem - grid area
